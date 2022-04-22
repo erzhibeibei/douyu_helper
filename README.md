@@ -2,7 +2,6 @@
 <h1 align="center">
 DouYu-Helper
 </h1>
-
 [![GitHub stars](https://img.shields.io/github/stars/TheSlientnight/douyu_helper?style=flat-square)](https://github.com/TheSlientnight/douyu_helper/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/TheSlientnight/douyu_helper?style=flat-square)](https://github.com/TheSlientnight/douyu_helper/network)
 [![GitHub issues](https://img.shields.io/github/issues/TheSlientnight/douyu_helper?style=flat-square)](https://github.com/TheSlientnight/douyu_helper/issues) 
