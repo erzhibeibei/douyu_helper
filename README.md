@@ -27,8 +27,7 @@
 5. 按下F12打开[开发者工具]，在[网络/network]中打开筛选，选择XHR
 6. 随意点击一个请求,将请求头中的cookie复制出来
 ![获取cookie](docs/img/cookie.png)
-   
-   
+  
 7. 在项目内点击Setting -> Secrets -> New Secrets,并添加获取到的COOKIES
 
 | Name        | Value                    |
