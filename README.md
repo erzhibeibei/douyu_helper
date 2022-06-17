@@ -1,7 +1,4 @@
 
-
-
-
 ### 一、Actions方式(推荐)
 1. **Fork本项目**
 2. 修改config.ini配置文件
