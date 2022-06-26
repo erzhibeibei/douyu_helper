@@ -1,11 +1,4 @@
 
-### 一、Actions方式(推荐)
-1. **Fork本项目**
-2. 修改config.ini配置文件
-   ![修改配置文件](docs/img/Config.png)
-3. **获取自己斗鱼账号的COOKIE**(请注意：斗鱼的Token大概一周会失效，因此需要每周更新一次)
-4. 使用浏览器登录[斗鱼](https://www.douyu.com)
-5. 按下F12打开[开发者工具]，在[网络/network]中打开筛选，选择XHR
 6. 随意点击一个请求,将请求头中的cookie复制出来
 ![获取cookie](docs/img/cookie.png)
   
