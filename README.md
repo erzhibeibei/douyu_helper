@@ -3,7 +3,7 @@
    ![运行任务](docs/img/Workfelow.png)
    
 9. 如果需要修改每日执行任务的时间,请修改`.github/auto_donate_douyu.yaml`下的`schedule`
-```yml
+```y
   schedule:
     - cron: '00 1 * * *'
     # cron表达式，Actions时区是国际时间，国际时间1点的时候，国内时间是早上9点。
