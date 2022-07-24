@@ -1,18 +1,4 @@
 
-   **Fork仓库之后，GitHub默认不自动执行Actions任务,请手动执行一次以检查工作流**
-   ![运行任务](docs/img/Workfelow.png)
-   
-9. 如果需要修改每日执行任务的时间,请修改`.github/auto_donate_douyu.yaml`下的`schedule`
-```y
-  schedule:
-    - cron: '00 1 * * *'
-    # cron表达式，Actions时区是国际时间，国际时间1点的时候，国内时间是早上9点。
-    # 示例： 每天晚上22点30执行 '30 14 * * *'
--   # 部分直播间会在周末开启双倍亲密度，可以修改时间表，实现每周末赠送
-    # 示例： 每周天凌晨12点30分执行 '0 30 16 ? * 7 '
-```
-如果收到了 GitHub Action 的错误邮件，请检查 Cookies 是不是失效了，用户修改密码、踢除设备下线，会导致 COOKIES 失效
-
 请各位使用 Actions 时务必遵守Github条款。不要滥用Actions服务。
 
 Please be sure to abide by the Github terms when using Actions. Do not abuse the Actions service.
