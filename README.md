@@ -1,16 +1,6 @@
 
 请各位使用 Actions 时务必遵守Github条款。不要滥用Actions服务。
 
-Please be sure to abide by the Github terms when using Actions. Do not abuse the Actions service.
-
-**查看Actions运行日志**
-1. 进入Actions执行结果
-    ![](docs/img/WatchAction.png)
-2. 查看执行详情
-    ![](docs/img/WatchAction2.png)
-3. 查看执行日志
-    ![](docs/img/WatchAction3.png)
-   
 [日志示例](https://github.com/TheSlientnight/douyu_helper/runs/2078519193?check_suite_focus=true)
 
 ### 二、本地执行(不推荐)
