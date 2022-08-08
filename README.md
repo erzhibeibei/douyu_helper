@@ -12,13 +12,7 @@
    
     ![](docs/img/Path1.png)
     ![](docs/img/Path2.png)
-    ![](docs/img/Path3.jpg)
-   
-3. 修改config.ini,详细做法可见[修改config配置](#一、Actions方式(推荐))
-4. 进入项目根目录，使用指令
-```shell
-python main.py
-```
+
 
 #### Linux命令行执行
 执行步骤同Windows执行，但是环境变量需要配置到/etc/Profile中
